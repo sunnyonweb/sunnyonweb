@@ -43,9 +43,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyonweb&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sunnyonweb/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/sunnyonweb)  
 
 
 
