@@ -3,6 +3,9 @@
 ### Hi there 👋, my name is Sunny Talukder
 #### Frontend Developer Crafting Beautiful Web Experiences
 
+- 👑 I am Web Developer
+- 🖊️ Love to write code
+- 🎤 Like to share my knowledge
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that## 🚀 About Me
 - 💻 I specialize in **JavaScript**, **React**, **Next.js**, **Tailwind CSS**, and **UI development**
