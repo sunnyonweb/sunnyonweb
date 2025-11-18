@@ -1,11 +1,9 @@
-![I am GitHub ReadmFrontend Developer Focused on Clean Code & Great Designe Generator's creator](https://i.ibb.co/B5b5yQtX/Blue-White-Modern-Futuristic-Welcome-Discord-Profile-Banner.png)
-
-### Hi there 👋, my name is Sunny Talukder
-#### Frontend Developer Crafting Beautiful Web Experiences
-
-- 👑 I am Web Developer
-- 🖊️ Love to write code
-- 🎤 Like to share my knowledge
+## Hi, I'm Sunny Talukder 👋
+[<img src='https://i.ibb.co/B5b5yQtX/Blue-White-Modern-Futuristic-Welcome-Discord-Profile-Banner.png/)
+<p>
+👑 I am Web Developer <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p> 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that## 🚀 About Me
 - 💻 I specialize in **JavaScript**, **React**, **Next.js**, **Tailwind CSS**, and **UI development**
