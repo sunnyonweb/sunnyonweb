@@ -1,4 +1,4 @@
-![I am GitHub ReadmFrontend Developer Focused on Clean Code & Great Designe Generator's creator](https://arturssmirnovs.github.io/githhttps://i.ibb.co/B5b5yQtX/Blue-White-Modern-Futuristic-Welcome-Discord-Profile-Banner.pngub-profile-readme-generator/images/banner.png)
+![I am GitHub ReadmFrontend Developer Focused on Clean Code & Great Designe Generator's creator](https://i.ibb.co/B5b5yQtX/Blue-White-Modern-Futuristic-Welcome-Discord-Profile-Banner.png)
 
 ### Hi there 👋, my name is Sunny Talukder
 #### I am GitHub ReadmFrontend Developer Focused on Clean Code & Great Designe Generator's creator
